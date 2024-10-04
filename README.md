@@ -1,2 +1,2 @@
-# .github
-Project files and sames for Aumentum Technologies.
+# About 
+These repositories contains project files and samples for Aumentum Technologies.
