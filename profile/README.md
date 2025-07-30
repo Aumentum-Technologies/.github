@@ -1,6 +1,7 @@
 ## Aumentum Technologies
 
 
+Aumentum Technologies simplifies the way governments manage land information and property tax revenue.
 <!--
 
 **Here are some ideas to get you started:**
