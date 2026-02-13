@@ -1,6 +1,6 @@
 # Aumentum Technologies
 
-Aumentum Technologies delivers modern, mission‑critical software solutions that help governments efficiently manage land information, property assessment, and property tax revenue. Our products support the full property‑tax lifecycle—from cadastral data management to valuation, taxation, and revenue collection—enabling transparency, accuracy, and better service to communities.
+Aumentum Technologies delivers modern, mission‑critical software solutions that help governments efficiently manage land information, property assessment, and property tax revenue. Our products support the full property‑tax lifecycle, from cadastral data management to valuation, taxation, and revenue collection, enabling transparency, accuracy, and better service to communities.
 
 ## What We Do
 We partner with governments to streamline:
@@ -22,9 +22,10 @@ Scalable architectures, automation, and performance‑focused infrastructure ena
 
 ## Our Mission
 To simplify the way government agencies manage land and property data by providing secure, modern, and efficient software that strengthens communities and supports responsible public service.
-Our Technology Approach
 
-## We focus on:
+
+## Our Technology Approach
+We focus on:
 * Secure, scalable cloud‑ready platforms
 * Modern DevOps practices & automation
 * API‑driven integration and interoperability
@@ -36,7 +37,7 @@ This GitHub organization provides public repositories, documentation, samples, a
 We believe in collaborating with the broader community to improve quality, transparency, and innovation.
 
 ## Connect With Us
-To learn more about Aumentum Technologies, our solutions, or partnership opportunities, visit our website: https://www.aumentumtech.com
+To learn more about Aumentum Technologies, our solutions, or partnership opportunities, visit our website: https://aumentumtech.com
 
 <!--
 
